@@ -1,5 +1,3 @@
-# Custom Neural Network for Image Recognition
+# Neural Network for Image Recognition
 
-## use cases tbd!!
-
-just for practice lul
+use cases tbd!! this is just for practice lul
