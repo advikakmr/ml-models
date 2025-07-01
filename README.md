@@ -1,6 +1,6 @@
-# Neural Network for Image Recognition
+# ML Models
 
-use cases tbd!! this is just for my own learning
+messing around with making my own ML models! this is just for my own learning
 
 ## to-do:
 * ~~Univariate Linear Regression~~
