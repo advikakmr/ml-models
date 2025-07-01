@@ -14,3 +14,9 @@ model = NeuralNetwork(X_train, y_train, X_test, y_test)
 
 prediction = model.predict_avg(100)
 print(f"prediction: {prediction}\nactual: {y_test}\navg error: {model.error_calc(prediction)}\n")
+
+# graphing
+plt.plot(X_train, y_train, "rs", X_test, y_test, "bs", X_test, prediction, "g--")
+plt.xlabel("X")
+plt.ylabel("y")
+plt.show()
