@@ -1,3 +1,3 @@
 # Neural Network for Image Recognition
 
-use cases tbd!! this is just for practice lul
+use cases tbd!! this is just for my own learning
